@@ -1,4 +1,4 @@
-this is a mathimatical excersises application for school students
+This is a mathimatical excersises application for school students
 that shows laws and needed info about geometrical shapes then can generate excersises to test absorption
 
 # Bonus:
