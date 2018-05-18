@@ -1,5 +1,5 @@
-This is a mathimatical excersises application for school students
-that shows laws and needed info about geometrical shapes then can generate excersises to test absorption
+This is a mathematical exercises application for school students
+that shows laws and needed info about geometrical shapes then can generate exercises to test absorption
 
 # Bonus:
 there is an extra choice in the main menu, the  choice named "Use File".
